@@ -31,7 +31,6 @@ expertise   :
   - Cost Optimization (FinOps)
 cloud       : Amazon Web Services (AWS) ☁️
 currently   : Building resilient, observable, and scalable cloud systems
-open_to     : [ Collaborations, Open Source, Cloud Projects ]
 ```
 
 ---
